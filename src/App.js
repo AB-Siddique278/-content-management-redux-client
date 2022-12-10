@@ -12,6 +12,7 @@ import UpdateBlogs from './Components/Pages/UpdateBlogs/UpdateBlogs';
 import DetailsBlogs from './Components/Pages/Blogs/DetailsBlogs';
 import Login from './Components/Pages/Login/Login'
 import SignUp from './Components/Pages/Login/SignUp'
+import Footer from './Components/Pages/Shared/Footer';
 function App() {
   return (
     <div className='md:px-20'>
@@ -41,6 +42,7 @@ function App() {
 
          
       </Routes>
+      <Footer></Footer>
     </div>
   );
 }

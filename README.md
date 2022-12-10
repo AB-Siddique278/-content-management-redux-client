@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+# Tech Blogs
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is live site [Live link](https://content-management-60409.web.app/).
 
-## Available Scripts
+## Server code 
 
-In the project directory, you can run:
+This is server code [Git Hub](https://github.com/AB-Siddique278/content-management-redux-server)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## How I create this Websites.
+* In this websites I create this websites using java screpts React fremworks 
+* For Building this websites i create a react App [React Doc](https://reactjs.org/docs/create-a-new-react-app.html).
+* Redux [Redux Doc](https://redux.js.org/)
+* Then make a react custom Nav and react router[React Route Doc](https://reactrouter.com/docs/en/v6/getting-started/installation).
+* Then make this Websites easily using a Tailwindcss css freamwork[Tailwindcss open source Doc](https://tailwindcss.com/docs/installation).
+* I also use Tailwind CSS component library[daisyUI](https://daisyui.com/components/) 
+* For Authentication and free Hosting in our websites we use Google Firebase[Coogle Firebase doc ](https://firebase.google.com/?gclid=CjwKCAjw9e6SBhB2EiwA5myr9sSx8iWwz3QVj2tq2prL1Mh2ReYYvB3faVnXlYkDHKjZvqf2ENmWxxoCuCoQAvD_BwE&gclsrc=aw.ds).
+* Then make easy Authentication use react firebase Hooks[firebase hook git repo](https://github.com/CSFrequency/react-firebase-hooks).
+* Then make this websites use Reall data using MongoDB[Mongo DB Wbsites](https://www.mongodb.com/cloud/atlas/efficiency?utm_source=google&utm_campaign=gs_footprint_row_search_core_brand_atlas_desktop&utm_term=mongodb%20atlas&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624584&adgroup=115749713503&gclid=CjwKCAjw682TBhATEiwA9crl3_05_KkZ8mkIzfNUmmpbBEXFuNEoszO4e1Xv8lRAYcsC5UqynVKRbRoCtTsQAvD_BwE).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* For payment Method i also use stripe.com[Documents](https://dashboard.stripe.com/test/dashboard)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+##  Other essential ingredients
+* [Hero icon](https://heroicons.com/)
+* [Google fonts](https://fonts.google.com/)
+* [React query](https://react-query.tanstack.com/quick-start)
+* [React Hook form ](https://react-hook-form.com/get-started)
