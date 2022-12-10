@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const BlogsCard = ({ blog }) => {
     const { title, description, image, tag, author, rating } = blog
@@ -11,7 +12,7 @@ const BlogsCard = ({ blog }) => {
                     <h2 className="card-title">{title}</h2>
                     <p>{description.slice(0, 80)}</p>
                     <div className="card-actions justify-end">
-                        <button className="btn btn-primary">Buy Now</button>
+                        <Link to={`/details/${blog._id}`} className="text-lg font-bold" > Read more</Link>
                     </div>
                 </div>
             </div>

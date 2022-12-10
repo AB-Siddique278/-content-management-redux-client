@@ -8,7 +8,10 @@ import Navbar from './Components/Pages/Shared/Navbar';
 import Dashboard from './Components/Pages/Dashboard/Dashboard';
 import AddBlog from './Components/Pages/Blogs/AddBlog';
 import BlogList from './Components/Pages/Blogs/BlogList';
-
+import UpdateBlogs from './Components/Pages/UpdateBlogs/UpdateBlogs';
+import DetailsBlogs from './Components/Pages/Blogs/DetailsBlogs';
+import Login from './Components/Pages/Login/Login'
+import SignUp from './Components/Pages/Login/SignUp'
 function App() {
   return (
     <div className='md:px-20'>
@@ -27,9 +30,15 @@ function App() {
           
         </Route>
         
-        
-      {/* <Route path="/login" element={<Login />} />
-      <Route path="/signup" element={<SignUp />} /> */}
+      <Route path='/update/:id' element={<UpdateBlogs></UpdateBlogs>}></Route>
+      <Route path='/details/:id' element={<DetailsBlogs></DetailsBlogs>}></Route>
+
+
+      <Route path="/login" element={<Login />} />
+      <Route path="/signup" element={<SignUp />} />
+
+
+
          
       </Routes>
     </div>
