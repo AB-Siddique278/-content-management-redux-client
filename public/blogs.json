@@ -1,0 +1,22 @@
+[
+    {
+      "title": "React JS ",
+      "tag": "programming-language",
+      "description": "React has been designed from the start for gradual adoption, and you can use as little or as much React as you need. Whether you want to get a taste of React, add some interactivity to a simple HTML page, or start a complex React-powered app, the links in this section will help you get started",
+      "image": "https://www.webrexstudio.com/wp-content/uploads/2019/05/react-js-image.png",
+      "author": "Abu Bakar ",
+      "rating": 4
+      
+      
+    },
+    {
+      "title": "Redux JS ",
+      "tag": "hadoop",
+      "description": "Redux is a package that creates a global state which you can share between React components—no parent / child relationship requiredAs you'll see down the line, Redux also allows you to view your app as different state changes occur thanks to its robust developer tools. When using Redux, you don't actually change the state, you create updated copies of the state that are then inserted into your React components",
+      "image": "https://chriscourses.com/img/blog/redux/redux.jpg",
+      "author": "Siddique",
+      "rating": 4
+      
+    }
+  ]
+  
